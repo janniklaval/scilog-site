@@ -1,6 +1,6 @@
 # Site
 
-
+Site des pages Web du GDR SciLog.
 
 ## Getting started
 
