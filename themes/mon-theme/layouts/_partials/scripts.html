@@ -1,0 +1,33 @@
+<!-- Main JavaScript -->
+{{- with resources.Get "js/main.js" }}
+  {{- $opts := dict
+    "minify" (not hugo.IsDevelopment)
+    "sourceMap" (cond hugo.IsDevelopment "external" "")
+    "targetPath" "js/main.js"
+  }}
+  {{- with . | js.Build $opts }}
+    {{- if hugo.IsDevelopment }}
+      <script src="{{ .RelPermalink }}"></script>
+    {{- else }}
+      {{- with . | fingerprint }}
+        <script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"></script>
+      {{- end }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+
+
+<!-- Fuse.js pour la recherche -->
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2/dist/fuse.min.js"></script>
+
+<!-- Script de recherche -->
+{{ $searchJs := resources.Get "js/search.js" }}
+{{ if $searchJs }}
+  {{ if not hugo.IsServer }}
+    {{ $searchJs = $searchJs | minify | fingerprint }}
+  {{ end }}
+  <script src="{{ $searchJs.RelPermalink }}"></script>
+{{ else }}
+  <!-- Fallback vers static/ si pas trouvé dans assets/ -->
+  <script src="js/search.js"></script>
+{{ end }}

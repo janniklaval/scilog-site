@@ -1,0 +1,138 @@
+// Client-side search script
+// Inspired by: https://github.com/zwbetz-gh/hugo-client-side-search-template
+
+const JSON_INDEX_URL = `${window.BASE_URL}index.json`;
+
+const QUERY_URL_PARAM = 'query';
+const MAX_HITS_SHOWN = 10;
+const FUSE_OPTIONS = {
+  keys: [
+    { name: 'title', weight: 0.8 },
+    { name: 'description', weight: 0.5 },
+    { name: 'content', weight: 0.3 }
+  ],
+  ignoreLocation: true,
+  includeMatches: true,
+  includeScore: true,
+  minMatchCharLength: 2,
+  threshold: 0.2
+};
+let fuse;
+const getInputEl = () => document.querySelector('#s');
+const initFuse = (pages) => {
+  fuse = new Fuse(pages, FUSE_OPTIONS);
+}
+const getQuery = () =>  {
+  return getInputEl().value.trim();
+}
+const setUrlParam = (query) => {
+  const url = new URL(location.origin + location.pathname);
+  url.search = `${QUERY_URL_PARAM}=${encodeURIComponent(query)}`;
+  window.history.replaceState({}, '', url);
+}
+const doSearchIfUrlParamExists = ()=> {
+  const params = new URLSearchParams(window.location.search);
+  if (params.has(QUERY_URL_PARAM)) {
+    const q = decodeURIComponent(params.get(QUERY_URL_PARAM));
+    getInputEl().value = q;
+    handleSearchEvent();
+  }
+}
+const createHitHtml = (hit) => {
+  const item = hit.item;
+  const url = item.url;
+  const title = item.title;
+  const desc = item.description ;
+  console.log(desc);
+  const date = item.date ? (new Date(item.date)).toLocaleDateString() : '';
+  const categories = item.categories || [];
+   return `
+    <article style="border-bottom:1px solid #eee;">
+     <h1><a href="${window.BASE_URL}${url}" style="text-decoration:none; color:#222;">${title}</a></h1>
+       ${date ? `<p style="color: #666;font-size: 10px;letter-spacing: 0.1em;">Posted on ${date}</p>` : ''}
+      <p>${desc} ${item.readmore ? `... <a href="${window.BASE_URL}${url}">Continue reading →</a>` : ''}</p>
+      ${categories.length > 0 ? `<p style="color: #666;font-size: 10px;letter-spacing: 0.1em;">
+         Posted in 
+          ${categories.map(cat => `<a href="${cat.url}" >${cat.name}</a>`).join(', ')}
+       </p>` : ''}
+    </article>
+  `;
+}
+
+const getMainContent = () => document.querySelector('main .content') || document.querySelector('main');
+
+const renderHits = (hits) => {
+  const mainContent = getMainContent();
+  if (!mainContent) return;
+
+  const query = getQuery();
+  const html = hits
+    .slice(0, MAX_HITS_SHOWN)
+    .map(createHitHtml)
+    .join('\n');
+
+  if (html && html.trim() !== "") {
+    mainContent.innerHTML = `
+      <p style="
+        color: #666;
+        font-size: 10px;
+        font-weight: 500;
+        letter-spacing: 0.1em;
+        line-height: 2.6em;
+        text-transform: uppercase;
+      ">
+        Search Results for: ${query}
+      </p>
+      ${html}
+    `;
+  } else {
+    mainContent.innerHTML = `<p style="
+        color: #666;
+        font-size: 10px;
+        font-weight: 500;
+        letter-spacing: 0.1em;
+        line-height: 2.6em;
+        text-transform: uppercase;
+      ">No results found for " ${query} "</p>`;
+  }
+};
+
+
+const handleSearchEvent = () => {
+  const query = getQuery();
+  if (!query || query.length < 1) {
+    document.querySelector('#search_results_container').innerHTML = '';
+    return;
+  }
+  const hits = fuse.search(query); 
+  setUrlParam(query);
+  renderHits(hits);
+};
+
+const fetchJsonIndex = () => {
+  fetch(JSON_INDEX_URL)
+    .then(res => res.json())
+    .then(data => {
+      initFuse(data);
+      const input = document.querySelector('#s');
+      const form = document.querySelector('#searchform');
+      
+      if (form) {
+        form.addEventListener('submit', (e) => {
+          e.preventDefault();  
+          handleSearchEvent();  
+        });
+      }
+      input.addEventListener('keydown', e => {
+        if (e.key === 'Escape') {
+          input.value = '';
+          document.querySelector('#search_results_container').innerHTML = '';
+        }
+      });
+      doSearchIfUrlParamExists();
+    }).catch(error => {
+      console.error(`Failed to fetch JSON index: ${error.message}`);
+    });;
+}
+
+document.addEventListener('DOMContentLoaded', fetchJsonIndex);

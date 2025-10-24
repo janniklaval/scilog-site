@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+<head>
+  {{ partial "head.html" . }}
+</head>
+<body>
+  <div class="site-bg">
+    <div class="site-container">
+      <header>
+        {{ partial "header.html" . }}
+      </header>
+      {{ partial "hero.html" . }}
+      <main>
+         <div class="main-test">
+            {{ partial "archive.html" . }}
+         <div class="content">
+            {{ block "main" . }}{{ end }}
+         </div>
+      </div>
+</main>
+      <footer>
+        {{ partial "footer.html" . }}
+      </footer>
+    </div>
+  </div>
+  <script>
+    window.BASE_URL = '{{ .Site.BaseURL }}';
+  </script>
+  {{ partial "scripts.html" . }}
+</body>
+</html>
