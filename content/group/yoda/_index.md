@@ -1,6 +1,6 @@
 ---
 title: YODA
-type: page
+type: old-page
 date: "2024-09-08T16:46:26Z"
 draft: false
 ---

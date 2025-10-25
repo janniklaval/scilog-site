@@ -1,5 +1,5 @@
 ---
-title: GL_Sec
+title: GLSec
 type: page
 date: "2024-09-07T07:45:34Z"
 draft: false

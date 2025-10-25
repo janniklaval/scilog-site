@@ -1,6 +1,6 @@
 ---
 title: HiFi
-type: page
+type: old-page
 date: "2024-08-22T16:40:05Z"
 draft: false
 ---

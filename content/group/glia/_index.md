@@ -1,5 +1,5 @@
 ---
-title: GLIA
+title: IA
 type: page
 date: "2024-08-22T17:10:06Z"
 draft: false

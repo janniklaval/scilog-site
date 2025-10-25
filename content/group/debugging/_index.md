@@ -1,6 +1,6 @@
 ---
 title: Debugging
-type: page
+type: old-page
 date: "2024-08-22T16:51:40Z"
 draft: false
 ---

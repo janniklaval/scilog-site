@@ -1,6 +1,6 @@
 ---
 title: AFSEC
-type: page
+type: old-page
 date: "2024-08-22T09:35:32Z"
 draft: false
 ---
