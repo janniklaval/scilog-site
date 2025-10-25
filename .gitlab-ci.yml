@@ -11,9 +11,6 @@ default:
     - apt-get update
     - hugo version
 
-
-
-
 # Use everywhere except on the default branch
 test:
   script:
