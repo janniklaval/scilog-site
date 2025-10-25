@@ -20,7 +20,7 @@ test:
 create-pages:
   stage: deploy
   script:
-    - hugo --minify
+    - hugo
   pages: true
   rules:
     - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
