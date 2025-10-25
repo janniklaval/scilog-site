@@ -14,18 +14,18 @@
         <a href="{{ "/archives/" | relURL }}{{ .key | urlize }}/">
           {{ $date := printf "%s-01" .key | time }}
           {{ $date.Format "January 2006"
-            | replaceRE "January" "Janvier"
-            | replaceRE "February" "Février"
-            | replaceRE "March" "Mars"
-            | replaceRE "April" "Avril"
-            | replaceRE "May" "Mai"
-            | replaceRE "June" "Juin"
-            | replaceRE "July" "Juillet"
-            | replaceRE "August" "Août"
-            | replaceRE "September" "Septembre"
-            | replaceRE "October" "Octobre"
-            | replaceRE "November" "Novembre"
-            | replaceRE "December" "Décembre"
+            | replaceRE "January" "janvier"
+            | replaceRE "February" "février"
+            | replaceRE "March" "mars"
+            | replaceRE "April" "avril"
+            | replaceRE "May" "mai"
+            | replaceRE "June" "juin"
+            | replaceRE "July" "juillet"
+            | replaceRE "August" "août"
+            | replaceRE "September" "septembre"
+            | replaceRE "October" "octobre"
+            | replaceRE "November" "novembre"
+            | replaceRE "December" "décembre"
           }}
         </a>
       </li>
