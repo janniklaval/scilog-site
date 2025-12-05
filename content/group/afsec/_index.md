@@ -2,7 +2,7 @@
 title: AFSEC
 type: old-page
 date: "2024-08-22T09:35:32Z"
-draft: false
+draft: true
 ---
 
 AFSEC : Approches Formelles des Systèmes Embarqués Communicants
