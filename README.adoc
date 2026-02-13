@@ -1,4 +1,4 @@
-# GDR SciLog - Site Web
+= GDR SciLog - Site Web
 :url: https://jmbruel.github.io/sean/
 :repo: https://src.koda.cnrs.fr/gdr-scilog/private/site.git/
 :scilog: https://mygdr.hosted.lip6.fr/accueilGDR/7/10[GDR SciLog]
@@ -23,7 +23,7 @@ Ce dépôt contient les sources du site {url}.
 
 Site web moderne et collaboratif pour le {scilog} (Groupement de Recherche Sciences du Logiciel - de l'institut {ins2i}) de la communauté scientifique française des Sciences du Logiciel.
 
-==== Architecture technique
+== Architecture technique
 
 === Technologies utilisées
 * *Hugo* v0.151.2 - Générateur de sites statiques

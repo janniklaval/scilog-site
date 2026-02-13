@@ -11,3 +11,4 @@ dist
 tmp
 .config-dev.toml
 __pycache__
+package-lock.json
