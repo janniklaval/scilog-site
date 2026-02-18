@@ -1,6 +1,6 @@
 ---
-title: "R\xE9union commune GT AFSEC (Approches Formelles des Syst\xE8mes Embarqu\xE9\
-  s Communicants) et IE (Ing\xE9nierie des Exigences)"
+title: "Réunion commune GT AFSEC (Approches Formelles des Systèmes Embarqué\
+  s Communicants) et IE (Ingénierie des Exigences)"
 type: news
 date: "2022-02-02T16:23:00Z"
 draft: false

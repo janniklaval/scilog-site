@@ -1,5 +1,5 @@
 ---
-title: "Prix de th\xE8se GDR SciLog2024"
+title: "Prix de thèse GDR SciLog2024"
 type: news
 date: "2024-06-24T08:29:13Z"
 draft: false

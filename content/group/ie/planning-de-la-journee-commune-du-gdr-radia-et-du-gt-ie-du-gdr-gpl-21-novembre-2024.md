@@ -1,5 +1,5 @@
 ---
-title: "Planning de la Journ\xE9e commune du GDR RADIA et du GT IE du {{% scilog %}} \u2013\
+title: "Planning de la Journée commune du GDR RADIA et du GT IE du {{% scilog %}} \u2013\
   \ 21 Novembre 2024"
 type: news
 date: "2024-11-09T20:27:54Z"

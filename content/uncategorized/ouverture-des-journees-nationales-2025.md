@@ -1,5 +1,5 @@
 ---
-title: "Ouverture des journ\xE9es nationales 2025"
+title: "Ouverture des journées nationales 2025"
 type: news
 date: "2025-06-16T14:07:05Z"
 draft: false

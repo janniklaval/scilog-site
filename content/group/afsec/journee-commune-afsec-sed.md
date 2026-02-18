@@ -1,5 +1,5 @@
 ---
-title: "Journ\xE9e commune AFSEC-SED"
+title: "Journée commune AFSEC-SED"
 type: news
 date: "2023-03-29T14:18:00Z"
 draft: false

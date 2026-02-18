@@ -1,5 +1,5 @@
 ---
-title: "Journ\xE9e DevX du 4 d\xE9cembre 24 \xE0 Rennes : Programme"
+title: "Journée DevX du 4 décembre 24 à Rennes : Programme"
 type: news
 date: "2024-11-21T12:34:57Z"
 draft: false

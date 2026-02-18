@@ -1,5 +1,5 @@
 ---
-title: "Conf\xE9rence invit\xE9e de Federica Sarro"
+title: "Conférence invitée de Federica Sarro"
 type: news
 date: "2025-07-14T13:17:37Z"
 draft: false

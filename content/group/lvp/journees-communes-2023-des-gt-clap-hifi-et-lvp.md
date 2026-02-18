@@ -1,5 +1,5 @@
 ---
-title: "Journ\xE9es communes 2023 des GT CLAP, HiFi et LVP"
+title: "Journées communes 2023 des GT CLAP, HiFi et LVP"
 type: news
 date: "2023-01-09T13:43:04Z"
 draft: false

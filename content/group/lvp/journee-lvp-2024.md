@@ -1,5 +1,5 @@
 ---
-title: "Journ\xE9e LVP 2024"
+title: "Journée LVP 2024"
 type: news
 date: "2024-08-14T22:00:59Z"
 draft: false

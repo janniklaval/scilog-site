@@ -1,5 +1,5 @@
 ---
-title: "Conditions G\xE9n\xE9rales d'Utilisation et Mentions L\xE9gales"
+title: "Conditions Générales d'Utilisation et Mentions Légales"
 type: page
 date: "2025-04-03T13:15:33Z"
 draft: false

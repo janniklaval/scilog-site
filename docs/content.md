@@ -24,7 +24,7 @@ Organisation des contenus du site GDR-GPL.
 **Fichiers Markdown (14) :**
 
 - `notes-des-ateliers-de-preparation-aux-concours.md`
-  - Titre: Notes des ateliers de pr\xE9paration aux concours
+  - Titre: Notes des ateliers de préparation aux concours
   - Type: news
   - Date: "2024-11-04T17:29:41Z"
 
@@ -34,7 +34,7 @@ Organisation des contenus du site GDR-GPL.
   - Date: "2025-07-14T12:53:07Z"
 
 - `conference-invitee-de-franck-barbier.md`
-  - Titre: Conf\xE9rence invit\xE9e de Franck Barbier
+  - Titre: Conférence invitée de Franck Barbier
   - Type: news
   - Date: "2025-06-17T10:57:03Z"
 
@@ -44,7 +44,7 @@ Organisation des contenus du site GDR-GPL.
   - Date: "2025-07-14T13:36:33Z"
 
 - `ouverture-des-journees-nationales-2025.md`
-  - Titre: Ouverture des journ\xE9es nationales 2025
+  - Titre: Ouverture des journées nationales 2025
   - Type: news
   - Date: "2025-06-16T14:07:05Z"
 
@@ -54,17 +54,17 @@ Organisation des contenus du site GDR-GPL.
   - Date: "2025-06-13T21:01:39Z"
 
 - `programme-detaille-des-journees-gpl2025.md`
-  - Titre: Programme d\xE9taill\xE9 des journ\xE9esGDR SciLog 2025
+  - Titre: Programme détaillé des journéesGDR SciLog 2025
   - Type: news
   - Date: "2025-07-14T20:26:08Z"
 
 - `appel-a-defis-la-suite.md`
-  - Titre: Appel \xE0 d\xE9fis (la suite...)
+  - Titre: Appel à défis (la suite...)
   - Type: news
   - Date: "2025-06-16T14:13:57Z"
 
 - `journees-nationales-gpl-2025.md`
-  - Titre: Journ\xE9es Nationales GDR SciLog 2025
+  - Titre: Journées Nationales GDR SciLog 2025
   - Type: news
   - Date: "2025-02-26T09:41:27Z"
 
@@ -74,12 +74,12 @@ Organisation des contenus du site GDR-GPL.
   - Date: "2025-01-09T15:37:52Z"
 
 - `conference-invitee-de-frederic-loulergue.md`
-  - Titre: Conf\xE9rence invit\xE9e de Fr\xE9d\xE9ric Loulergue
+  - Titre: Conférence invitée de Frédéric Loulergue
   - Type: news
   - Date: "2025-06-24T13:31:22Z"
 
 - `hommage-a-jean-raymond-abrial.md`
-  - Titre: Hommage \xE0 Jean-Raymond Abrial
+  - Titre: Hommage à Jean-Raymond Abrial
   - Type: news
   - Date: "2025-06-29T19:46:43Z"
 
@@ -89,7 +89,7 @@ Organisation des contenus du site GDR-GPL.
   - Date: "2025-07-14T12:20:24Z"
 
 - `conference-invitee-de-federica-sarro.md`
-  - Titre: Conf\xE9rence invit\xE9e de Federica Sarro
+  - Titre: Conférence invitée de Federica Sarro
   - Type: news
   - Date: "2025-07-14T13:17:37Z"
 
@@ -98,27 +98,27 @@ Organisation des contenus du site GDR-GPL.
 **Fichiers Markdown (5) :**
 
 - `inscriptions-pour-les-journees-nationales.md`
-  - Titre: Inscriptions pour les journ\xE9es nationales
+  - Titre: Inscriptions pour les journées nationales
   - Type: news
   - Date: "2025-05-19T09:23:35Z"
 
 - `co-voiturage-aux-journees-gpl2025.md`
-  - Titre: Co-voiturage aux journ\xE9es GDR SciLog2025
+  - Titre: Co-voiturage aux journées GDR SciLog2025
   - Type: news
   - Date: "2025-05-22T12:14:58Z"
 
 - `journees-nationales-gpl-2025.md`
-  - Titre: Journ\xE9es Nationales GDR SciLog 2025
+  - Titre: Journées Nationales GDR SciLog 2025
   - Type: news
   - Date: "2025-02-26T09:41:27Z"
 
 - `ouverture-des-journees-nationales-gpl-2024-et-programme.md`
-  - Titre: Ouverture des Journ\xE9es Nationales GDR SciLog 2024 et programme
+  - Titre: Ouverture des Journées Nationales GDR SciLog 2024 et programme
   - Type: "news"
   - Date: "2024-06-03T08:22:24Z"
 
 - `_index.md`
-  - Titre: Journ\xE9es Nationales
+  - Titre: Journées Nationales
   - Type: page
   - Date: "2024-06-23T11:37:59Z"
 
@@ -147,7 +147,7 @@ Organisation des contenus du site GDR-GPL.
 **Fichiers Markdown (2) :**
 
 - `actes-des-journees-gpl-2025.md`
-  - Titre: Actes des journ\xE9es GDR SciLog 2025
+  - Titre: Actes des journées GDR SciLog 2025
   - Type: news
   - Date: "2024-06-23T09:46:44Z"
 
@@ -195,7 +195,7 @@ Organisation des contenus du site GDR-GPL.
 **Fichiers Markdown (1) :**
 
 - `index.md`
-  - Titre: Conditions G\xE9n\xE9rales d
+  - Titre: Conditions Générales d
   - Type: page
   - Date: "2025-04-03T13:15:33Z"
 
@@ -204,7 +204,7 @@ Organisation des contenus du site GDR-GPL.
 **Fichiers Markdown (1) :**
 
 - `index.md`
-  - Titre: Contribuer \xE0 ce site web
+  - Titre: Contribuer à ce site web
   - Type: page
   - Date: "2025-01-27T12:36:10Z"
 
@@ -231,7 +231,7 @@ Organisation des contenus du site GDR-GPL.
 **Fichiers Markdown (2) :**
 
 - `prix-de-these-gpl-2025-theses-soutenues-en-2024.md`
-  - Titre: Prix de th\xE8se GDR SciLog 2025 (Th\xE8ses soutenues en 2024)
+  - Titre: Prix de thèse GDR SciLog 2025 (Thèses soutenues en 2024)
   - Type: news
   - Date: "2025-01-31T22:30:56Z"
 
@@ -247,12 +247,12 @@ Organisation des contenus du site GDR-GPL.
 **Fichiers Markdown (3) :**
 
 - `reunion-commune-gt-afsec-approches-formelles-des-systemes-embarques-communicants-et-ie-ingenierie-des-exigences.md`
-  - Titre: R\xE9union commune GT AFSEC (Approches Formelles des Syst\xE8mes Embarqu\xE9\
+  - Titre: Réunion commune GT AFSEC (Approches Formelles des Systèmes Embarqué\
   - Type: news
   - Date: "2022-02-02T16:23:00Z"
 
 - `planning-de-la-journee-commune-du-gdr-radia-et-du-gt-ie-du-gdr-gpl-21-novembre-2024.md`
-  - Titre: Planning de la Journ\xE9e commune du GDR RADIA et du GT IE du {{% scilog %}} \u2013\
+  - Titre: Planning de la Journée commune du GDR RADIA et du GT IE du {{% scilog %}} \u2013\
   - Type: news
   - Date: "2024-11-09T20:27:54Z"
 
@@ -280,17 +280,17 @@ Organisation des contenus du site GDR-GPL.
 **Fichiers Markdown (4) :**
 
 - `idm-ingenierie-dirigee-par-les-modeles.md`
-  - Titre: IDM : Ing\xE9nierie Dirig\xE9e par les Mod\xE8les
+  - Titre: IDM : Ingénierie Dirigée par les Modèles
   - Type: news
   - Date: "2024-09-07T07:56:33Z"
 
 - `journee-mdenet-france-workshop-2023.md`
-  - Titre: Journ\xE9e MDENet France Workshop 2023
+  - Titre: Journée MDENet France Workshop 2023
   - Type: news
   - Date: "2023-12-15T09:56:00Z"
 
 - `journee-commune-gt-velocite-logicielle-et-ingenierie-des-modeles-paris-lip6-10-mars-2023.md`
-  - Titre: Journ\xE9e commune GT V\xE9locit\xE9 Logicielle et Ing\xE9nierie des Mod\xE8\
+  - Titre: Journée commune GT Vélocité Logicielle et Ingénierie des Modè\
   - Type: news
   - Date: "2023-01-07T08:00:00Z"
 
@@ -304,7 +304,7 @@ Organisation des contenus du site GDR-GPL.
 **Fichiers Markdown (4) :**
 
 - `appel-a-participation-journee-commune-gt-vl-glia-lundi-03-02-2025-irisa-inria-rennes.md`
-  - Titre: Appel \xE0 participation -- Journ\xE9e commune GT VL &amp; GLIA - lundi 03/02/2025\
+  - Titre: Appel à participation -- Journée commune GT VL &amp; GLIA - lundi 03/02/2025\
   - Type: news
   - Date: "2024-12-04T15:24:59Z"
 
@@ -314,7 +314,7 @@ Organisation des contenus du site GDR-GPL.
   - Date: "2024-08-22T17:12:32Z"
 
 - `journees-gl-ia-le-2-decembre-2021-sur-paris.md`
-  - Titre: Journ\xE9es GL &amp; IA le 2 d\xE9cembre 2021 sur Paris
+  - Titre: Journées GL &amp; IA le 2 décembre 2021 sur Paris
   - Type: news
   - Date: "2021-11-03T18:57:00Z"
 
@@ -328,7 +328,7 @@ Organisation des contenus du site GDR-GPL.
 **Fichiers Markdown (3) :**
 
 - `journees-communes-2023-des-gt-clap-hifi-et-lvp.md`
-  - Titre: Journ\xE9es communes 2023 des GT CLAP, HiFi et LVP
+  - Titre: Journées communes 2023 des GT CLAP, HiFi et LVP
   - Type: news
   - Date: "2023-01-09T13:43:04Z"
 
@@ -361,7 +361,7 @@ Organisation des contenus du site GDR-GPL.
 **Fichiers Markdown (4) :**
 
 - `journee-devx-du-4-decembre-24-a-rennes-programme.md`
-  - Titre: Journ\xE9e DevX du 4 d\xE9cembre 24 \xE0 Rennes : Programme
+  - Titre: Journée DevX du 4 décembre 24 à Rennes : Programme
   - Type: news
   - Date: "2024-11-21T12:34:57Z"
 
@@ -371,7 +371,7 @@ Organisation des contenus du site GDR-GPL.
   - Date: "2024-08-22T16:53:17Z"
 
 - `gt-debugging-ressources-2021-en-lignes-slides-videos.md`
-  - Titre: GT-Debugging : ressources 2021 en lignes (slides, vid\xE9os)
+  - Titre: GT-Debugging : ressources 2021 en lignes (slides, vidéos)
   - Type: news
   - Date: "2021-12-16T16:58:00Z"
 
@@ -385,12 +385,12 @@ Organisation des contenus du site GDR-GPL.
 **Fichiers Markdown (5) :**
 
 - `journee-mtv2-le-16-03-2023-au-lmf-univ-paris-saclay.md`
-  - Titre: Journ\xE9e MTV2 le 16.03.2023 au LMF, Univ.Paris-Saclay
+  - Titre: Journée MTV2 le 16.03.2023 au LMF, Univ.Paris-Saclay
   - Type: news
   - Date: "2023-01-23T13:16:32Z"
 
 - `journees-communes-lvpmtv2-les-16-17-nov-2023-a-palaiseau.md`
-  - Titre: Journ\xE9es communes LVP+MTV2 les 16-17 nov. 2023 \xE0 Palaiseau
+  - Titre: Journées communes LVP+MTV2 les 16-17 nov. 2023 à Palaiseau
   - Type: news
   - Date: "2023-09-30T12:36:39Z"
 
@@ -405,7 +405,7 @@ Organisation des contenus du site GDR-GPL.
   - Date: "2024-08-22T10:15:45Z"
 
 - `journee-mtv2-le-21-11-2024-a-lepita-le-kremlin-bicetre.md`
-  - Titre: Journ\xE9e MTV2 le 21.11.2024 \xE0 l
+  - Titre: Journée MTV2 le 21.11.2024 à l
   - Type: news
   - Date: "2024-11-05T09:14:01Z"
 
@@ -414,7 +414,7 @@ Organisation des contenus du site GDR-GPL.
 **Fichiers Markdown (3) :**
 
 - `programme-de-la-journee-gt-logiciel-eco-responsable-a-montpellier.md`
-  - Titre: Programme de la Journ\xE9e GT Logiciel Eco-Responsable \xE0 Montpellier
+  - Titre: Programme de la Journée GT Logiciel Eco-Responsable à Montpellier
   - Type: news
   - Date: "2024-11-06T19:52:10Z"
 
@@ -433,12 +433,12 @@ Organisation des contenus du site GDR-GPL.
 **Fichiers Markdown (3) :**
 
 - `appel-a-participation-journee-commune-gt-vl-glia-lundi-03-02-2025-irisa-inria-rennes.md`
-  - Titre: Appel \xE0 participation -- Journ\xE9e commune GT VL &amp; GLIA - lundi 03/02/2025\
+  - Titre: Appel à participation -- Journée commune GT VL &amp; GLIA - lundi 03/02/2025\
   - Type: news
   - Date: "2024-12-04T15:24:59Z"
 
 - `journee-commune-gt-velocite-logicielle-et-ingenierie-des-modeles-paris-lip6-10-mars-2023.md`
-  - Titre: Journ\xE9e commune GT V\xE9locit\xE9 Logicielle et Ing\xE9nierie des Mod\xE8\
+  - Titre: Journée commune GT Vélocité Logicielle et Ingénierie des Modè\
   - Type: news
   - Date: "2023-01-07T08:00:00Z"
 
@@ -452,17 +452,17 @@ Organisation des contenus du site GDR-GPL.
 **Fichiers Markdown (5) :**
 
 - `journee-commune-au-ct-sed-et-au-gt-afsec.md`
-  - Titre: Journ\xE9e commune au CT SED et au GT AFSEC.
+  - Titre: Journée commune au CT SED et au GT AFSEC.
   - Type: news
   - Date: "2025-01-15T16:51:40Z"
 
 - `journee-commune-afsec-sed.md`
-  - Titre: Journ\xE9e commune AFSEC-SED
+  - Titre: Journée commune AFSEC-SED
   - Type: news
   - Date: "2023-03-29T14:18:00Z"
 
 - `reunion-commune-gt-afsec-approches-formelles-des-systemes-embarques-communicants-et-ie-ingenierie-des-exigences.md`
-  - Titre: R\xE9union commune GT AFSEC (Approches Formelles des Syst\xE8mes Embarqu\xE9\
+  - Titre: Réunion commune GT AFSEC (Approches Formelles des Systèmes Embarqué\
   - Type: news
   - Date: "2022-02-02T16:23:00Z"
 
@@ -481,17 +481,17 @@ Organisation des contenus du site GDR-GPL.
 **Fichiers Markdown (4) :**
 
 - `journees-communes-2023-des-gt-clap-hifi-et-lvp.md`
-  - Titre: Journ\xE9es communes 2023 des GT CLAP, HiFi et LVP
+  - Titre: Journées communes 2023 des GT CLAP, HiFi et LVP
   - Type: news
   - Date: "2023-01-09T13:43:04Z"
 
 - `journees-communes-lvpmtv2-les-16-17-nov-2023-a-palaiseau.md`
-  - Titre: Journ\xE9es communes LVP+MTV2 les 16-17 nov. 2023 \xE0 Palaiseau
+  - Titre: Journées communes LVP+MTV2 les 16-17 nov. 2023 à Palaiseau
   - Type: news
   - Date: "2023-09-30T12:36:39Z"
 
 - `journee-lvp-2024.md`
-  - Titre: Journ\xE9e LVP 2024
+  - Titre: Journée LVP 2024
   - Type: news
   - Date: "2024-08-14T22:00:59Z"
 
@@ -505,7 +505,7 @@ Organisation des contenus du site GDR-GPL.
 **Fichiers Markdown (4) :**
 
 - `journees-communes-2023-des-gt-clap-hifi-et-lvp.md`
-  - Titre: Journ\xE9es communes 2023 des GT CLAP, HiFi et LVP
+  - Titre: Journées communes 2023 des GT CLAP, HiFi et LVP
   - Type: news
   - Date: "2023-01-09T13:43:04Z"
 
@@ -529,12 +529,12 @@ Organisation des contenus du site GDR-GPL.
 **Fichiers Markdown (5) :**
 
 - `prix-de-these-gpl-2025-theses-soutenues-en-2024.md`
-  - Titre: Prix de th\xE8se GDR SciLog 2025 (Th\xE8ses soutenues en 2024)
+  - Titre: Prix de thèse GDR SciLog 2025 (Thèses soutenues en 2024)
   - Type: news
   - Date: "2025-01-31T22:30:56Z"
 
 - `atelier-de-preparation-aux-concours.md`
-  - Titre: Atelier de pr\xE9paration aux concours
+  - Titre: Atelier de préparation aux concours
   - Type: news
   - Date: "2025-06-19T10:20:53Z"
 
@@ -549,7 +549,7 @@ Organisation des contenus du site GDR-GPL.
   - Date: "2024-09-13T13:56:57Z"
 
 - `appel-a-defi-2026-2030.md`
-  - Titre: Appel \xE0 d\xE9fis 2026-2030
+  - Titre: Appel à défis 2026-2030
   - Type: news
   - Date: "2024-12-05T17:10:56Z"
 
@@ -560,17 +560,17 @@ Organisation des contenus du site GDR-GPL.
 **Fichiers Markdown (3) :**
 
 - `index.md`
-  - Titre: Appel Mobilit\xE9
+  - Titre: Appel Mobilité
   - Type: page
   - Date: "2025-04-23T16:20:20Z"
 
 - `appel-mobilite.md`
-  - Titre: Appel Mobilit\xE9
+  - Titre: Appel Mobilité
   - Type: news
   - Date: "2024-09-13T14:05:21Z"
 
 - `bourses-de-mobilite-2025.md`
-  - Titre: Bourses de Mobilit\xE9 2025
+  - Titre: Bourses de Mobilité 2025
   - Type: news
   - Date: "2025-04-23T15:32:37Z"
 
@@ -579,22 +579,22 @@ Organisation des contenus du site GDR-GPL.
 **Fichiers Markdown (4) :**
 
 - `index.md`
-  - Titre: Prix de th\xE8se GDR SciLog
+  - Titre: Prix de thèse GDR SciLog
   - Type: page
   - Date: "2025-01-31T21:59:49Z"
 
 - `prix-de-these-gpl-2025-theses-soutenues-en-2024.md`
-  - Titre: Prix de th\xE8se GDR SciLog 2025 (Th\xE8ses soutenues en 2024)
+  - Titre: Prix de thèse GDR SciLog 2025 (Thèses soutenues en 2024)
   - Type: news
   - Date: "2025-01-31T22:30:56Z"
 
 - `prix-de-these-gpl2023.md`
-  - Titre: Prix de th\xE8se GDR SciLog2024
+  - Titre: Prix de thèse GDR SciLog2024
   - Type: news
   - Date: "2024-06-24T08:29:13Z"
 
 - `prix-de-gpl-these-2025.md`
-  - Titre: Prix de GDR SciLog Th\xE8se 2025
+  - Titre: Prix de GDR SciLog Thèse 2025
   - Type: news
   - Date: "2025-06-19T10:06:57Z"
 

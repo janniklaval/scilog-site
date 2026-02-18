@@ -1,5 +1,5 @@
 ---
-title: "Programme de la Journ\xE9e GT Logiciel Eco-Responsable \xE0 Montpellier"
+title: "Programme de la Journée GT Logiciel Eco-Responsable à Montpellier"
 type: news
 date: "2024-11-06T19:52:10Z"
 draft: false

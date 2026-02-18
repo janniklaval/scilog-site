@@ -1,11 +1,11 @@
 ---
-title: "Appel \xE0 d\xE9fis (la suite...)"
+title: "Appel à défis (la suite...)"
 type: news
 date: "2025-06-16T14:13:57Z"
 draft: false
 categories:
 - An2025
-- "D\xE9fis2025"
+- "Défis2025"
 - SDL2025
 archives: ["2025-06"]
 ---

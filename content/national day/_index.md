@@ -1,11 +1,11 @@
 ---
-title: "Journ\xE9es Nationales"
+title: "Journées Nationales"
 type: page
 date: "2024-06-23T11:37:59Z"
 menu: 
   hero:
     weight: 2
-    name: "Journ\xE9es Nationales"
+    name: "Journées Nationales"
 draft: false
 ---
 

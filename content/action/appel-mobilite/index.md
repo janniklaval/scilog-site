@@ -1,5 +1,5 @@
 ---
-title: "Appel Mobilit\xE9"
+title: "Appel Mobilité"
 type: page
 date: "2025-04-23T16:20:20Z"
 draft: false

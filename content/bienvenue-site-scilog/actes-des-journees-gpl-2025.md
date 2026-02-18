@@ -1,5 +1,5 @@
 ---
-title: "Actes des journ\xE9es GDR SciLog 2025"
+title: "Actes des journées GDR SciLog 2025"
 type: news
 date: "2024-06-23T09:46:44Z"
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "IDM : Ing\xE9nierie Dirig\xE9e par les Mod\xE8les"
+title: "IDM : Ingénierie Dirigée par les Modèles"
 type: news
 date: "2024-09-07T07:56:33Z"
 draft: false

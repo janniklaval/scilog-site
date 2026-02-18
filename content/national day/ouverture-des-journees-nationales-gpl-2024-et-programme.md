@@ -1,5 +1,5 @@
 ---
-title: "Ouverture des Journ\xE9es Nationales GPL 2024 et programme"
+title: "Ouverture des Journées Nationales GPL 2024 et programme"
 type: "news"
 date: "2024-06-03T08:22:24Z"
 draft: false

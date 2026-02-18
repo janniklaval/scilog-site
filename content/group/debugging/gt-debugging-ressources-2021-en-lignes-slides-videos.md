@@ -1,5 +1,5 @@
 ---
-title: "GT-Debugging : ressources 2021 en lignes (slides, vid\xE9os)"
+title: "GT-Debugging : ressources 2021 en lignes (slides, vidéos)"
 type: news
 date: "2021-12-16T16:58:00Z"
 draft: false

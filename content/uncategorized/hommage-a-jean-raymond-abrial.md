@@ -1,5 +1,5 @@
 ---
-title: "Hommage \xE0 Jean-Raymond Abrial"
+title: "Hommage à Jean-Raymond Abrial"
 type: news
 date: "2025-06-29T19:46:43Z"
 draft: false

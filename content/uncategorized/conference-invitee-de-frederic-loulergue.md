@@ -1,5 +1,5 @@
 ---
-title: "Conf\xE9rence invit\xE9e de Fr\xE9d\xE9ric Loulergue"
+title: "Conférence invitée de Frédéric Loulergue"
 type: news
 date: "2025-06-24T13:31:22Z"
 draft: false

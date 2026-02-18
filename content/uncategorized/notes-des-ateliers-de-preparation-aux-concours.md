@@ -1,5 +1,5 @@
 ---
-title: "Notes des ateliers de pr\xE9paration aux concours"
+title: "Notes des ateliers de préparation aux concours"
 type: news
 date: "2024-11-04T17:29:41Z"
 draft: false

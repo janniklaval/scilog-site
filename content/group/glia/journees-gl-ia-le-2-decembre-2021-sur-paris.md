@@ -1,5 +1,5 @@
 ---
-title: "Journ\xE9es GL &amp; IA le 2 d\xE9cembre 2021 sur Paris"
+title: "Journées GL &amp; IA le 2 décembre 2021 sur Paris"
 type: news
 date: "2021-11-03T18:57:00Z"
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "Journ\xE9e commune GT V\xE9locit\xE9 Logicielle et Ing\xE9nierie des Mod\xE8\
+title: "Journée commune GT Vélocité Logicielle et Ingénierie des Modè\
   les - Paris (LIP6) - 10 Mars 2023"
 type: news
 date: "2023-01-07T08:00:00Z"

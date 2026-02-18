@@ -1,5 +1,5 @@
 ---
-title: "Atelier de pr\xE9paration aux concours"
+title: "Atelier de préparation aux concours"
 type: news
 date: "2025-06-19T10:20:53Z"
 draft: false

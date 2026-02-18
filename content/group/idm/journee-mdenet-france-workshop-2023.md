@@ -1,5 +1,5 @@
 ---
-title: "Journ\xE9e MDENet France Workshop 2023"
+title: "Journée MDENet France Workshop 2023"
 type: news
 date: "2023-12-15T09:56:00Z"
 draft: false

@@ -1,12 +1,12 @@
 ---
-title: "Bourses de Mobilit\xE9 2025"
+title: "Bourses de Mobilité 2025"
 type: news
 date: "2025-04-23T15:32:37Z"
 draft: false
 categories:
 - ActionGPL
 - An2025
-- "Mobilit\xE9"
+- "Mobilité"
 archives: ["2025-04"]
 ---
 

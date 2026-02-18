@@ -1,5 +1,5 @@
 ---
-title: "Journ\xE9e commune au CT SED et au GT AFSEC."
+title: "Journée commune au CT SED et au GT AFSEC."
 type: news
 date: "2025-01-15T16:51:40Z"
 draft: false

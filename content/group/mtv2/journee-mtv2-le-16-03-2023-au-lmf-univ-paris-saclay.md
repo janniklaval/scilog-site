@@ -1,5 +1,5 @@
 ---
-title: "Journ\xE9e MTV2 le 16.03.2023 au LMF, Univ.Paris-Saclay"
+title: "Journée MTV2 le 16.03.2023 au LMF, Univ.Paris-Saclay"
 type: news
 date: "2023-01-23T13:16:32Z"
 draft: false

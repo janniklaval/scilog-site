@@ -1,5 +1,5 @@
 ---
-title: "Journ\xE9es Nationales SDL 2025"
+title: "Journées Nationales SDL 2025"
 type: news
 date: "2025-02-26T09:41:27Z"
 draft: false

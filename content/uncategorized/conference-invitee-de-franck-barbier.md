@@ -1,5 +1,5 @@
 ---
-title: "Conf\xE9rence invit\xE9e de Franck Barbier"
+title: "Conférence invitée de Franck Barbier"
 type: news
 date: "2025-06-17T10:57:03Z"
 draft: false

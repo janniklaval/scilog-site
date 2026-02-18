@@ -1,5 +1,5 @@
 ---
-title: "Journ\xE9e MTV2 le 21.11.2024 \xE0 l'EPITA, Le Kremlin-Bic\xEAtre"
+title: "Journée MTV2 le 21.11.2024 à l'EPITA, Le Kremlin-Bicêtre"
 type: news
 date: "2024-11-05T09:14:01Z"
 draft: false

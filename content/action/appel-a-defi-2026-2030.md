@@ -1,5 +1,5 @@
 ---
-title: "Appel \xE0 d\xE9fis 2026-2030"
+title: "Appel à défis 2026-2030"
 type: news
 date: "2024-12-05T17:10:56Z"
 draft: false
