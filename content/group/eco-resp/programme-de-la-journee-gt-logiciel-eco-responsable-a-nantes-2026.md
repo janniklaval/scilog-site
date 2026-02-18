@@ -1,13 +1,13 @@
 ---
 title: "Programme de la Journée GT Logiciel Eco-Responsable à Nantes 2026"
 type: news
-date: "2025-11-26T15:22:15Z"
+date: "2026-01-23T15:22:15Z"
 draft: false
 categories:
 - An2025
 - Eco-Resp
 - EvenementGPL
-archives: ["2025-11"]
+archives: ["2026-01"]
 ---
 
 La journée d'étude du **GT Logiciel Eco-Responsable** se déroulera le **23 janvier 2026** au LS2N (Faculté des Sciences et des Techniques) à Nantes.
@@ -38,6 +38,3 @@ Pour nous aider à organiser pauses-cafés et repas, merci de remplir le formula
 Les présentations sont désormais en ligne sur la page web de l’évènement :
 <https://gdr-gpl.cnrs.fr/?p=539>
 
-À très vite.
-
-Olivier, Adel et Dalila.
