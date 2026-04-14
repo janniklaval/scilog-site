@@ -8,16 +8,19 @@ draft: false
 Créé en 2013 pour récompenser chaque année une excellente thèse préparée au sein du {{% scilog %}}, le **Prix de thèse** du {{% scilog %}} a pour objectif de promouvoir les travaux du {{% scilog %}} auprès de la communauté informatique.
 
   
-Le prix est décerné par un jury couvrant les thématiques du {{% scilog %}}. Pour l'édition concernant les thèses soutenues en 2023, le jury était présidé par Pascal Poizat et est constitué des membres suivants : B. Baudry, S. Bliudze, I. Borne, S. Chabridon, S. Conchon, S. Costiou, F. Dabrowski, S. Ebersold, A. Giorgetti, Y.-G. Guéhéneuc, D. E. Khelladi, N. Kosmatov, N. Kushik, M. Lhommeau, S. Mosser, A. Noureddine, T. Polacsek, G. Salaün, P. Temple.
+Le prix est décerné par un jury couvrant les thématiques du {{% scilog %}}. Pour l'édition concernant les thèses soutenues en 2025, le jury est présidé par Sandrine Blazy et est constitué des membres suivants : Rabéa Ameur-Boulifa, Benoit Baudry, Dorra Ben Khalifa, Frédéric Dabrowski, Thomas Degueule, David Delahaye, Cédric Dumoulin, Sophie Ebersold, Julien Forget, Olivier Hermant, Nikolai Kosmatov, Dylan Marinho, Thomas Polacsek et Julien Signoles.
+
 
 Les articles récents relatifs au prix de thèse sont les suivants :
 
-[L'archive des articles de ce prix de thèse (jusque 2024) est disponible ici.](https://gdr-gpl-2013-2024.imag.fr/Actions/PrixDeTheseGPL/blog-prix-de-these.html)
+[L'archive des articles de ce prix de thèse (jusqu'à l'édition 2025 pour les thèses soutenues en 2024) est disponible ici.](https://gdr-gpl.cnrs.fr/?page_id=376)
 
-**Lauréats pour les soutenances de 2020 à 2023.**
+**Lauréats pour les soutenances de 2020 à 2024.**
 
-Année| Lauréat| Thèse  
+Année de soutenance| Lauréat| Thèse  
 ---|---|---  
+**2024**|  Mickaël LAURENT (prix)  | [Inférence de types polymorphes pour des langages dynamiques : reconstruction de types pour des systèmes combinant polymorphisme paramétrique, surcharge et sous-typage.](https://theses.hal.science/tel-04972652)  Université Paris Cité / IRIF sous la direction de Giuseppe Castagna <hr>
+| | Anouck CHAN (accessit) | [Co-conception d'un produit et de son système industriel : Une approche ingénierie des exigences pour l’aérospatial.](https://depozit.isae.fr/theses/2024/2024_Chan_Anouck.pdf) Toulouse ISAE / ONERA sous la direction de Thomas Polacsek et Stéphanie Roussel <hr>
 **2023**|  Xavier DENIS (prix)  | [Deductive Verification of Rust Programs.](https://theses.hal.science/tel-04517581)  Université Paris Saclay / LMF sous la direction de Claude Marché <hr>
 | | Sylvain GUERIN (accessit) | [FML : un langage de fédération de modèles pour l'interopérabilité sémantique de sources d'information hétérogènes.](https://theses.hal.science/tel-04555528v1) ENSTA Bretagne / Lab-STICC sous la direction d'Antoine Beugnard et Joël Champeau <hr> 
 | | Youcef REMIL (accessit)| [A Data Mining Perspective on Explainable AIOps with Applications to Software Maintenance.](https://theses.hal.science/tel-04391281v1) Université de Lyon / INSA Lyon sous la direction de Jean-François Boulicaut  <hr>
