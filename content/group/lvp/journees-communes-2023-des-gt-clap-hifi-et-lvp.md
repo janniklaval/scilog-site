@@ -1,7 +1,7 @@
 ---
 title: "Journées communes 2023 des GT CLAP, HiFi et LVP"
 type: news
-date: "2023-01-09T13:43:04Z"
+date: "2023-03-09T13:43:04Z"
 draft: false
 categories:
 - An2023
@@ -9,7 +9,7 @@ categories:
 - EvenementGPL
 - HiFi
 - LVP
-archives: ["2023-01"]
+archives: ["2023-03"]
 ---
 
 Les groupes de travail CLAP, HiFi et LVP du {{% scilog %}} s'associent pour proposer des journées communes, du lundi 20 au mercredi 22 mars 2023, dans l'auditorium du bâtiment IMAG, à Grenoble. Toute l'information pour participer aux journées est ici : [https://clap-hifi-lvp-2023.sciencesconf.org](https://clap-hifi-lvp-2023.sciencesconf.org/)

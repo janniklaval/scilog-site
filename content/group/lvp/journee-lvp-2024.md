@@ -1,13 +1,13 @@
 ---
 title: "Journée LVP 2024"
 type: news
-date: "2024-08-14T22:00:59Z"
+date: "2024-11-14T22:00:59Z"
 draft: false
 categories:
 - An2024
 - EvenementGPL
 - LVP
-archives: ["2024-08"]
+archives: ["2024-11"]
 ---
 
-La journée annuelle du GT LVP (Langages et Vérification de Programmes) aura lieu le jeudi 14 novembre 2024 dans les locaux de l'IRIF à Paris. Plus d'informations seront communiquées ultérieurement.
+La journée annuelle du GT LVP (Langages et Vérification de Programmes) aura lieu le jeudi 14 novembre 2024 dans les locaux de l'IRIF à Paris. Plus d'informations sont disponibles sur la [page de l'évènement](https://groupes.renater.fr/wiki/lvp/public/journee_lvp_novembre2024).
