@@ -1,6 +1,3 @@
-// Client-side search script
-// Inspired by: https://github.com/zwbetz-gh/hugo-client-side-search-template
-
 const JSON_INDEX_URL = `${window.BASE_URL}index.json`;
 
 const QUERY_URL_PARAM = 'query';
@@ -50,7 +47,7 @@ const createHitHtml = (hit) => {
     <article style="border-bottom:1px solid #eee;">
      <h1><a href="${window.BASE_URL}${url}" style="text-decoration:none; color:#222;">${title}</a></h1>
        ${date ? `<p style="color: #666;font-size: 10px;letter-spacing: 0.1em;">Posted on ${date}</p>` : ''}
-      <p>${desc} ${item.readmore ? `... <a href="${window.BASE_URL}${url}">Continue reading →</a>` : ''}</p>
+      <p>${desc} ${item.readmore ? `... <a href="${window.BASE_URL}${url}">Continuer à lire →</a>` : ''}</p>
       ${categories.length > 0 ? `<p style="color: #666;font-size: 10px;letter-spacing: 0.1em;">
          Posted in 
           ${categories.map(cat => `<a href="${cat.url}" >${cat.name}</a>`).join(', ')}
@@ -135,4 +132,5 @@ const fetchJsonIndex = () => {
     });;
 }
 
+// Dès que le DOM est chargé
 document.addEventListener('DOMContentLoaded', fetchJsonIndex);
