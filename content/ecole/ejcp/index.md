@@ -1,16 +1,16 @@
 ---
 title: EJCP
 type: page
-date: "2024-06-23T11:31:10Z"
+date: "2026-06-19"
 draft: false
 ---
 
-## **Présentation de l'Ecole des Jeunes Chercheurs en Programmation**
+## **Présentation de l'École des jeunes chercheures et jeunes chercheurs en Sciences du Logiciel**
 
-À côté des groupes de travail, qui constituent le principal instrument d'animation des communautés scientifiques, l'École des Jeunes Chercheurs participe au renouvellement de ces communautés en formant et sensibilisant les jeunes chercheurs aux  thématiques scientifiques présentes dans le GDR.  
+Au côté des groupes thématiques et des défis, qui constituent les principaux instruments d'animation des communautés scientifiques, l'École des jeunes chercheures et jeunes chercheurs en Sciences du Logiciel participe au renouvellement de ces communautés en formant et sensibilisant nos jeunes collègues aux  thématiques scientifiques présentes dans le GDR.  
   
-L'École Jeunes Chercheurs en Programmation accueille chaque année pendant une semaine une quarantaine de jeunes chercheurs en première année de thèse dans la communauté informatique. L'école propose ses cours dans un ensemble de thèmes de recherche liés à la programmation, à la vérification et au génie logiciel.
+L'école accueille chaque année pendant une semaine une quarantaine de jeunes chercheures et chercheurs en première année de thèse dans la communauté informatique. L'école propose ses cours dans un ensemble de sujets liés aux thématiques du GDR.
 
-#### Cette année,  l’école aura lieu à Argelès-sur-Mer (Pyrénées Orientales) au Village Club AZUREVA du 17 au 21 juin 2024.
+#### Cette année,  l’école aura lieu à Nantes (Loire-Atlantique) du 12 au 16 octobre 2026.
 
-Plus d'information sur le site de l'[EJCP 2024](https://gpl-ejcp.github.io/ejcp2024)
+Plus d'information sur le site de l'[EJCP 2026](https://ejcp2026-scilog.ls2n.fr)
