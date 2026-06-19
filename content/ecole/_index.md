@@ -9,8 +9,8 @@ menu:
 draft: false
 ---
 
-Le {{% scilog %}} soutient la formation des jeunes chercheurs. Des écoles jeunes chercheurs bénéficient du soutien du GDR ou de ses groupes de travail.
+Le {{% scilog %}} soutient la formation des jeunes collègues dans les thématiques qui lui sont proches. Plusieurs écoles jeunes chercheurs bénéficient du soutien du GDR ou de ses groupes de travail.
 
-L'[Ecole des Jeunes Chercheurs en Programmation](/ecole/ejcp/) est intégrée au {{% scilog %}}. Sa directrice ou son directeur est membre du [Comité Stratégique](/bienvenue-site-scilog/organisation/comite-strategique/) et l'école bénéficie d'un soutien financier significatif de la part du {{% scilog %}}.
+L'[École des jeunes chercheures et jeunes chercheurs en Sciences du Logiciel](/ecole/ejcp/) est intégrée au {{% scilog %}}. Sa directrice ou son directeur est membre du [Comité Stratégique](/bienvenue-site-scilog/organisation/comite-strategique/) et l'école bénéficie d'un soutien financier significatif de la part du {{% scilog %}}.
 
 D'autres écoles bénéficient ponctuellement d'une aide du {{% scilog %}}, à l'initiative des groupes de travail.
